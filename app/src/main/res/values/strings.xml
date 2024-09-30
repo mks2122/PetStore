@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Pet Shop App</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="text_username">Username</string>
+    <string name="text_password">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_shop">In Store</string>
+    <string name="text_remove">X</string>
+    <string name="text_checkout">Checkout</string>
+    <string name="text_card_name">Card Owner Name</string>
+    <string name="label_card_number">Valid Card Number</string>
+    <string name="text_addTo">Add to Basket</string>
+    <string name="text_removeFrom">Remove From Basket</string>
+</resources>
